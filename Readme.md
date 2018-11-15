@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXGrid_Binding_to_ICollectionView/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXGrid_Binding_to_ICollectionView/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DXGrid_Binding_to_ICollectionView/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DXGrid_Binding_to_ICollectionView/MainWindow.xaml))
+<!-- default file list end -->
 # DXGrid - Binding to ICollectionView
 
 
